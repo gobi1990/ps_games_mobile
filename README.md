@@ -1,4 +1,4 @@
-# videogames_list_mobile - PS Games
+# PS Games Mobile
 
 Use following command to generate files for json serializable and mockito testing,
 
