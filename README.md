@@ -2,12 +2,16 @@
 
 Use following command to generate files for json serializable and mockito testing,
 
-'flutter packages pub run build_runner build'
+```sh
+flutter packages pub run build_runner build
+```
 
 
 use this command for errors in generated files,
 
-'flutter packages pub run build_runner build --delete-conflicting-outputs'
+```sh
+flutter packages pub run build_runner build --delete-conflicting-outputs
+```
 
 
 Implemented layered architecture with MVVM and repository patterns to connect API and used provider for the state management package to seperate UI and business logic components. Additionally, used Dio package for the API connectivity. 
