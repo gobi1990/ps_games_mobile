@@ -16,7 +16,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 Implemented layered architecture with MVVM and repository patterns to connect API and used provider for the state management package to seperate UI and business logic components. Additionally, used Dio package for the API connectivity. 
 
-<img src="https://drive.google.com/uc?export=view&id=1WFBxDm_jy-uUTXuJa0Rt48_nPoRQ-Cqk" style="width: 200px; max-width: 100%; height: auto" title="Screen 1" />
+<img src="https://drive.google.com/uc?export=view&id=1WFBxDm_jy-uUTXuJa0Rt48_nPoRQ-Cqk" style="width: 300px; max-width: 100%; height: auto" title="Screen 1" />
 
 Used Technologies
 -Flutter & Dart
